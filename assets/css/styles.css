@@ -233,6 +233,12 @@
 /* --------------------------------------------------------------------
  * ## intro background
  * -------------------------------------------------------------------- */
+.s-intro span {
+  font-family: "Playfair Display SC", serif;
+  letter-spacing: 0.6ch;
+  color: white;
+}
+
 .s-intro__bg {
   display: block;
   position: absolute;
