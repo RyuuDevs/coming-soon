@@ -199,7 +199,7 @@
  * ------------------------------------------------------------------- */
 .s-intro {
   --header-height: 8.8rem;
-  --logo-width: 78px;
+  --logo-width: 150px;
   --text-display-size: 11.2rem;
   --text-multiplier: 1;
   z-index: 3;
